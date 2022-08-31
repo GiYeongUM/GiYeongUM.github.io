@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "ee0997ba3070d336eb51e77ec9fe18ef",
-"index.html": "ad22c4a470d5ff8e047a86115963e9f4",
-"/": "ad22c4a470d5ff8e047a86115963e9f4",
+"index.html": "bca6abbb15437996635393aded621516",
+"/": "bca6abbb15437996635393aded621516",
 "main.dart.js": "2e025a037e9e819de118a14424b15a64",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -32,11 +31,7 @@ const RESOURCES = {
 "assets/assets/fonts/Noto_Sans_KR/NotoSansKR-Black.otf": "aef8424b7c9ece17f01cbc8618e4723b",
 "assets/assets/fonts/Noto_Sans_KR/NotoSansKR-Medium.otf": "de132efeffa48aef0bf5bdfe1c4602f4",
 "assets/assets/fonts/Noto_Sans_KR/NotoSansKR-Regular.otf": "913f146b0200b19b17eb4de8b4427a9c",
-"assets/assets/fonts/Black_Han_Sans/BlackHanSans-Regular.ttf": "1eb6820bf5b6b3e8b7570dfe0999a363",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/fonts/Black_Han_Sans/BlackHanSans-Regular.ttf": "1eb6820bf5b6b3e8b7570dfe0999a363"
 };
 
 // The application shell files that are downloaded before a service worker can
